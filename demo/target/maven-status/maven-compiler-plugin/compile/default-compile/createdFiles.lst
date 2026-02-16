@@ -2,6 +2,10 @@ com\example\metier\IMetier.class
 com\example\dao\IDao.class
 com\example\ext\DaoImplV2.class
 com\example\pres\Presentation2.class
+com\example\pres\PresSpringAnnot.class
 com\example\metier\MetierImpl.class
 com\example\pres\Presentation1.class
 com\example\dao\DaoImpl.class
+com\example\configuration\DaoConfig.class
+com\example\configuration\MetierConfig.class
+com\example\pres\PresXml.class

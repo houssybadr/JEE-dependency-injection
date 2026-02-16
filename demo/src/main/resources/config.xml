@@ -7,7 +7,7 @@
     <bean id="dao" class="com.example.ext.DaoImplV2"/>
 
     <bean id="metier" class="com.example.metier.MetierImpl">
-        <constructor-arg ref="dao"/>
+        <property name="dao" ref="dao"/>
     </bean>
 
 </beans>
