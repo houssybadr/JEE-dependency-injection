@@ -8,7 +8,7 @@ import com.example.dao.IDao;
 import com.example.metier.IMetier;
 
 public class Presentation2 {
-   public static void main(String[] args) throws IOException,ClassNotFoundException,InstantiationException,IllegalAccessException,NoSuchMethodException,InvocationTargetException{
+   /*public static void main(String[] args) throws IOException,ClassNotFoundException,InstantiationException,IllegalAccessException,NoSuchMethodException,InvocationTargetException{
         Scanner scanner=new Scanner(new File("config.txt"));
 
         String daoClassName=scanner.nextLine();
@@ -21,5 +21,5 @@ public class Presentation2 {
 
         System.out.println("Res= "+metier.calcul());
         scanner.close();
-    }
+    }*/
 }
